@@ -1,0 +1,11 @@
+# Visual Studio generated and user files
+bin/
+obj/
+*.sln.ide/
+*.suo
+
+# NuGet packages
+packages/
+
+# Generated package files
+NuGet/tools/

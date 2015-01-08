@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DatedTodo</id>
+    <version>0.1.0.0</version>
+    <title>DatedTodo</title>
+    <authors>Martin Johns</authors>
+    <owners>Martin Johns</owners>
+    <licenseUrl>https://github.com/MartinJohns/DatedTodo/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MartinJohns/DatedTodo/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet package to give warnings and errors when todo items with a due date are due.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Martin Johns 2015</copyright>
+    <tags>Compile</tags>
+  </metadata>
+</package>
