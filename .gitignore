@@ -1,6 +1,7 @@
 # Visual Studio generated and user files
 bin/
 obj/
+.vs/
 *.sln.ide/
 *.suo
 
